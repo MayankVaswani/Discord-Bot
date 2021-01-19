@@ -1,0 +1,5 @@
+random,
+discord,
+requests,
+pyjokes,
+pathlib
